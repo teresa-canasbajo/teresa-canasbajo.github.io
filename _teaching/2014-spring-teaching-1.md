@@ -1,20 +1,24 @@
 ---
-title: "Teaching experience 1"
+title: Teaching experience 1
 collection: teaching
-type: "Undergraduate course"
+type: Undergraduate course
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: 'University 1, Department'
+date: {}
+location: 'City, Country'
+published: true
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Anatomy and Physiology of the Eye and the Visual System 
 ======
 
-Heading 2
+Perception Science Summer School for High Schoolers
 ======
 
-Heading 3
+National Student Leadership Conference
+======
+
+National Student Leadership Conference
 ======
