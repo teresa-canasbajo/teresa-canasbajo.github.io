@@ -20,5 +20,5 @@ Perception Science Summer School for High Schoolers
 National Student Leadership Conference
 ======
 
-National Student Leadership Conference
+MIMS
 ======
