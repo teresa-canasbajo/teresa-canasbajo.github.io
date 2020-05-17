@@ -10,7 +10,7 @@ published: true
 
 {% include base_path %}
 
-![teaching pic.jpg]({{site.baseurl}}/images/teaching_pic_resized.jpg)
+![teaching pic.jpg]({{site.baseurl}}/images/teaching_pic.jpg)
 
 
 ## Awards
