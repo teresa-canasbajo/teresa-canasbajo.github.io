@@ -13,32 +13,29 @@ published: true
 ![teaching pic.jpg]({{site.baseurl}}/images/teaching_pic.jpg)
 
 
-## Awards
+# Awards
 2020 Campus Outstanding Student Instructor
 
 2020 Vision Science Outstanding Student Instructor
 
-### Courses
+# Courses
 
+## Anatomy and Phisiology of the Eye and the Visual System
 
-
-
-Anatomy and Phisiology of the Eye and the Visual System
-======
 Spring 2018, Spring 2019 and Spring 2020
 UC Berkeley
 
-Perception Science Summer School for High Schoolers
-======
+## Perception Science Summer School for High Schoolers
+
 Summer 2018 and Summer 2019
 UC Berkeley
 
-National Student Leadership Conference
-======
+## National Student Leadership Conference
+
 Summer 2019
 UC Berkeley
 
-MIMS
-======
+## MIMS
+
 Summer 2019
 UC Berkeley
