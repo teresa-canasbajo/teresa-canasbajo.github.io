@@ -10,8 +10,8 @@ published: true
 
 {% include base_path %}
 
-![teaching pic.jpg]({{site.baseurl}}/images/teaching_pic_resized2.jpg)
 
+![teaching_pic_resized2.jpg]({{site.baseurl}}/images/teaching_pic_resized2.jpg)
 
 # Awards
 2020 Campus Outstanding Student Instructor
