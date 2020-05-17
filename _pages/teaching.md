@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 {% include base_path %}
 
 ![teaching pic.jpg]({{site.baseurl}}/images/teaching_pic.jpg)
