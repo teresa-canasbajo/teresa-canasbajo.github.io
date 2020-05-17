@@ -12,6 +12,17 @@ published: true
 
 ![teaching pic.jpg]({{site.baseurl}}/images/teaching_pic_resized.jpg)
 
+
+## Awards
+2020 Campus Outstanding Student Instructor
+
+2020 Vision Science Outstanding Student Instructor
+
+### Courses
+
+
+
+
 Anatomy and Phisiology of the Eye and the Visual System
 ======
 Spring 2018, Spring 2019 and Spring 2020
