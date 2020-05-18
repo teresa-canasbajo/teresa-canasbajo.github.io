@@ -1,7 +1,7 @@
 ---
 title: "Driver's Attention in Manual and Autonomous Vehicles"
 collection: projects
-type: " "
+type: "workshop"
 permalink: /projects/BDDproject
 venue: "Berkeley Deep Drive"
 date: 2020-05-01
