@@ -10,7 +10,7 @@ published: true
 
 {% include base_path %}
 
-{% for post in site.projects reversed %}
-  <img src="{% post.feature_img %}" />
+{% for project in site.projects reversed %}
+  <img src="{% project.feature_img %}" />
   {% include archive-single.html %}
 {% endfor %}
