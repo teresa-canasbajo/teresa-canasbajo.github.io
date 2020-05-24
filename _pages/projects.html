@@ -11,7 +11,7 @@ published: true
    <section class="card-list">
            {% for project in site.projects offset:1 %}
            <div class="card">
-                   <img src="{{ project.thumbnail_image.small }}" />
+                   <img src="{{ project.feature-image }}" />
                    <div class="card-details">
                    <h3>{{ project.date | date:"%d %b" }} - {{ project.title }}</h3>
                <a href="{{ project.url }}" class="btn">Read More</a>
