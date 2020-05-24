@@ -6,18 +6,14 @@ author_profile: true
 published: true
 ---
 
-<div class="constrain">
-   <h1>The best of the rest</h1> 
-   <section class="card-list">
-           {% for project in site.projects offset:1 %}
-           <div class="card">
-                   <img src="{{ project.feature-image }}" />
-                   <div class="card-details">
-                   <h3>{{ project.date | date:"%d %b" }} - {{ project.title }}</h3>
-               <a href="{{ project.url }}" class="btn">Read More</a>
-                   </div>
-               </div>
-           {% endfor %}
-          
-   </section>
+
+{% for project in site.projects offset:1 %}
+<div class="card">
+  <img src="{{ project.feature-image }}" />
+  <div class="card-details">
+    <h3>{{ project.date | date:"%d %b" }} - {{ project.title }}</h3>
+    <a href="{{ project.url }}" class="btn">Read More</a>
+  </div>
 </div>
+{% endfor %}
+
