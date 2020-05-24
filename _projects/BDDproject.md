@@ -4,7 +4,7 @@ collection: projects
 type: workshop
 permalink: /projects/BDDproject
 venue: Berkeley Deep Drive
-date: {}
+date: 2020-01-01
 feature-image: /images/angiepic.jpg
 location: 'Berkeley, CA'
 published: true
