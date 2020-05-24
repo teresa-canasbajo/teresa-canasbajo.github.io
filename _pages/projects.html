@@ -12,4 +12,5 @@ published: true
 
 {% for post in site.projects reversed %}
   {% include archive-single.html %}
+  <img src="{% post.feature_img %}" />
 {% endfor %}
