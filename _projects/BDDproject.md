@@ -5,6 +5,7 @@ type: "workshop"
 permalink: /projects/BDDproject
 venue: "Berkeley Deep Drive"
 date: 2020-05-01
+feature-image: angiepic.jpg
 location: "Berkeley, CA"
 ---
 
