@@ -9,7 +9,7 @@ published: true
 <div class="constrain">
    <h1>The best of the rest</h1> 
    <section class="card-list">
-           {% for post in site.projects offset:1 %}
+           {% for projects in site.projects offset:1 %}
            <div class="card">
                    <img src="{{ projects.thumbnail_image.small }}" />
                    <div class="card-details">
