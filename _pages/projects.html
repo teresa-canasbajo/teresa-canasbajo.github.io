@@ -1,12 +1,23 @@
 ---
 layout: archive
-title: "Projects"
+title: Projects
 permalink: /projects/
 author_profile: true
+published: true
 ---
 
-{% include base_path %}
-
-{% for post in site.projects reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="constrain">
+   <h1>The best of the rest</h1> 
+   <section class="card-list">
+           {% for post in site.projects offset:1 %}
+           <div class="card">
+                   <img src="{{ projects.thumbnail_image.small }}" />
+                   <div class="card-details">
+                   <h3>{{ projects.date | date:"%d %b" }} - {{ projects.title }}</h3>
+               <a href="{{ projects.url }}" class="btn">Read More</a>
+                   </div>
+               </div>
+           {% endfor %}
+          
+   </section>
+</div>
