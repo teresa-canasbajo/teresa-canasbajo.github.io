@@ -3,7 +3,7 @@ title: "Designing a New Method of Studying Feature-Length Films"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ' In this article, we describe a new method that combines quantitative and qualitative data to study viewers’ experiences of different structural features of films.'
-date: 2015-10-01
+date: 2020-10-21
 venue: 'Projections
 paperurl: 'http://teresa-canasbajo.github.io/files/10.3167@proj.2019.130304.pdf'
 citation: 'Canas-Bajo, J.., Canas-Bajo, T., Berki, E., Valtanen, J. & Saariluoma, P. (2019). &quot;Designing a New Method of Studying Feature-Length Films.&quot; <i>Projections</i>. 13(3), 53-78.'
