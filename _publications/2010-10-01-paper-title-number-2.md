@@ -2,7 +2,7 @@
 title: "Periphery-Fovea Multi-Resolution Driving Model Guided by Human Attention"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Inspired by human vision, we propose a new periphery-fovea multi-resolution driving model that predicts vehicle speed from dash camera videos.'
 date: 2020-10-21
 venue: 'Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2020'
 paperurl: 'http://teresa-canasbajo.github.io/files/Xia_Periphery-Fovea_Multi-Resolution_Driving_Model_Guided_by_Human_Attention_WACV_2020_paper.pdf'
